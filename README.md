@@ -2,6 +2,7 @@
 This is a recipe web page made with tailwindcss.
 
 **Live Site**
+https://ifeomaorika.github.io/Recipe-Page/
 
-My Stack
+**My Stack**
 HTML and tailwindcss
